@@ -1,0 +1,5 @@
+.sass-cache
+*.swp
+*.scss
+*.sass
+*.css
