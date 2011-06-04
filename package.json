@@ -1,0 +1,15 @@
+{
+  "author": "Cristian Hampus <contact@cristianhampus.se> (http://cristianhampus.se)",
+  "name": "sass",
+  "description": "A wrapper around Sass",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ckhampus/sass.js.git"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
