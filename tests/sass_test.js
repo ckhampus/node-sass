@@ -1,4 +1,5 @@
 var sass = require('../lib/sass.js');
 
-console.log(sass.compile('./style.scss'));
-console.log(sass.compile('./style.scss', 'compressed'));
+sass.compile('./style.scss', function (css) {
+    console.log(css);
+});
