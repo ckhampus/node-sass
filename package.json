@@ -1,14 +1,14 @@
 {
   "author": "Cristian Hampus <contact@cristianhampus.se> (http://cristianhampus.se)",
   "name": "sass",
-  "description": "A wrapper around Sass",
+  "description": "A wrapper around the Sass gem.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ckhampus/sass.js.git"
+    "url": "git://github.com/ckhampus/node-sass.git"
   },
   "engines": {
-    "node": ">=0.4.0"
+    "node": ">=0.4.x"
   },
   "dependencies": {},
   "devDependencies": {}
