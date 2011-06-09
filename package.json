@@ -11,5 +11,6 @@
     "node": ">=0.4.x"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "index"
 }
